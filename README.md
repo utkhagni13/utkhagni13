@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SKBy3vDjR_6lA6-tTwcwiz84IoRO7F8O/view](https://drive.google.com/file/d/1SKBy3vDjR_6lA6-tTwcwiz84IoRO7F8O/view)
 
-- ⚡ Fun fact **Deep insights of my Humour contains moral thoughts......**
+- ⚡ **Deep insights of my Humour contains moral thoughts......😁😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
