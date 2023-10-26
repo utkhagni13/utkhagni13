@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Agnihotri</h1>
 <h3 align="center">I'm a Full Stack Developer and Final year student at Indian Institute of Information Technology, Gwalior, India</h3>
 
-- 🔭 I’m currently working on [Applying Reinforcement learning on Social Force Models for Interaction Aware Decision Making](https://ieeexplore.ieee.org/document/9826385 as part of my Masters thesis.
+- 🔭 I’m currently working on [Applying Reinforcement learning on Social Force Models for Interaction Aware Decision Making for AVs](https://ieeexplore.ieee.org/document/9826385) as part of my Masters thesis.
 
 - 💬 Ask me about **Data Structures & Algorithms, Full Stack Development, Network Socket Programming, Desktop App Development, Evolutionary Algorithms**
 
