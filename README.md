@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Applying Reinforcement learning on Social Force Models for Interaction Aware Decision Making](https://ieeexplore.ieee.org/document/9826385)
 
-- 💬 Ask me about **C++, Python, React, Node, Express, MongoDB, Redux, Docker, Django, Data Structures & Algorithms, Network Socket Programming, Evolutionary Algorithms**
+- 💬 Ask me about **Data Structures & Algorithms, Full Stack Development, Network Socket Programming, Desktop App Development, Evolutionary Algorithms**
 
 - 📫 How to reach me **utkhagni13@gmail.com**
 
