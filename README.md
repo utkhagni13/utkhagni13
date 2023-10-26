@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Agnihotri</h1>
 <h3 align="center">I'm a Full Stack Developer and Final year student at Indian Institute of Information Technology, Gwalior, India</h3>
 
-- 🔭 I’m currently working on [Applying Reinforcement learning on Social Force Models for Interaction Aware Decision Making for AVs](https://ieeexplore.ieee.org/document/9826385) as part of my Masters thesis.
+🔭 I’m currently working on [Applying Reinforcement learning on Social Force Models for Interaction Aware Decision Making for AVs](https://ieeexplore.ieee.org/document/9826385) as part of my Masters thesis.
 
-- 💬 Ask me about **Data Structures & Algorithms, Full Stack Development, Network Socket Programming, Desktop App Development, Evolutionary Algorithms**
+💬 Ask me about **Data Structures & Algorithms, Full Stack Development, Network Socket Programming, Desktop App Development, Evolutionary Algorithms**
 
-- 📫 Reach me at **utkhagni13@gmail.com**
+📫 Reach me at **utkhagni13@gmail.com**
 
-- 📄 Resume - [https://drive.google.com/file/d/1SKBy3vDjR_6lA6-tTwcwiz84IoRO7F8O/view](https://drive.google.com/file/d/1SKBy3vDjR_6lA6-tTwcwiz84IoRO7F8O/view)
+📄 Resume - [https://drive.google.com/file/d/1SKBy3vDjR_6lA6-tTwcwiz84IoRO7F8O/view](https://drive.google.com/file/d/1SKBy3vDjR_6lA6-tTwcwiz84IoRO7F8O/view)
 
-- ⚡ **Deep insights of my Humour contains moral thoughts......😁😁**
+⚡ **Deep insights of my Humour contains moral thoughts......😁😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
